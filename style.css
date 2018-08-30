@@ -1,0 +1,13 @@
+body{
+    background-color: #c5dfc5;
+}
+.nube{
+    font-size: 1.3em;
+    padding-left: 5em;
+    padding-top: 1em;
+
+}
+
+.nube h1 span{
+    font-size: 0.5em;
+}
